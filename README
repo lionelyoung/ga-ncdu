@@ -11,4 +11,7 @@ Pipe the output to ncdu, and toggle apparent vs. actual size with "a" in ncdu:
 
   ga-ncdu.pl ~/mah_annex | ncdu -f-
 
+Reference:
+==========
 
+* Forum for tool: https://git-annex.branchable.com/forum/ga-ncdu/
