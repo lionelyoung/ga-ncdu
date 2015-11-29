@@ -1,0 +1,3 @@
+* Add support for streaming output
+* Output information for (but exclude) regular files
+* Pass brutal perlcritic checks
